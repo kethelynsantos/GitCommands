@@ -38,6 +38,7 @@ Após copiar o link do repositório que deseja clonar, fazer ->
 git clone codigocopiado
 code .
 ```
+---
 
 ### Plus
 

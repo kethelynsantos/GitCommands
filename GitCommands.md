@@ -2,9 +2,9 @@
 
 ### Configurando a identificação no Git
 
-```
-git config user.name "kethelynsantos"
-git config user.email "kethelyngabrielly14@gmail.com"
+```bash
+>> git config user.name "kethelynsantos"
+>> git config user.email "kethelyngabrielly14@gmail.com"
 ```
 ---
 
@@ -12,38 +12,38 @@ git config user.email "kethelyngabrielly14@gmail.com"
 
 Depois de criar um repositório no github, executar os seguintes comandos ->
 
-```
-git init
-git add .
-git commit -m "commit"
-git branch -M main
-git remote add origin https://github.com/kethelynsantos/GitCommands.git
-git push -u origin main
+```bash
+>> git init
+>> git add .
+>> git commit -m "commit"
+>> git branch -M main
+>> git remote add origin https://github.com/kethelynsantos/GitCommands.git
+>> git push -u origin main
 ```
 ---
 
 ### Salvando uma nova versão
-```
-git status
-git add .
-git commit -m "update"
-git push
+```bash
+>> git status
+>> git add .
+>> git commit -m "update"
+>> git push
 ```
 ---
 
 ### Clonando um repositório
 
 Após copiar o link do repositório que deseja clonar, fazer ->
-```
-git clone codigocopiado
-code .
+```bash
+>> git clone codigocopiado
+>> code .
 ```
 ---
 
 ### Plus
 
 #### Se estiver na Bosch não esqueça de remover suas credenciais que ficaram salvas em:
-```
-"Gerenciador de Credenciais"
-"Credenciais do Windows"
+```bash
+>> "Gerenciador de Credenciais"
+>> "Credenciais do Windows"
 ```

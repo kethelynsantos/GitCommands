@@ -38,3 +38,11 @@ Após copiar o link do repositório que deseja clonar, fazer ->
 git clone codigocopiado
 code .
 ```
+
+### Plus
+
+#### Se estiver na Bosch não esqueça de remover suas credenciais que ficaram salvas em:
+```
+"Gerenciador de Credenciais"
+"Credenciais do Windows"
+```

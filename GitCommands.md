@@ -40,17 +40,18 @@ Após copiar o link do repositório que deseja clonar, fazer ->
 ```
 ---
 
-### Plus
-
-#### Se estiver na Bosch não esqueça de remover suas credenciais que ficaram salvas em:
-```bash
->> "Gerenciador de Credenciais"
->> "Credenciais do Windows"
-```
 ### Criando uma Branch
 ```bash
 >> Configure seu usuário
 >> git checkout -b kethelyn
 >> git checkout (mostra em qual branch você está)
 >> git push origin kethelyn
+```
+
+### Plus
+
+#### Se estiver na Bosch não esqueça de remover suas credenciais que ficaram salvas em:
+```bash
+>> "Gerenciador de Credenciais"
+>> "Credenciais do Windows"
 ```

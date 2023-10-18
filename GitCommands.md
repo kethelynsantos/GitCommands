@@ -47,6 +47,7 @@ Após copiar o link do repositório que deseja clonar, fazer ->
 >> git checkout (mostra em qual branch você está)
 >> git push origin kethelyn
 ```
+---
 
 ### Plus
 

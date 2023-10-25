@@ -3,8 +3,8 @@
 ### Configurando a identificação no Git
 
 ```bash
->> git config user.name "kethelynsantos"
->> git config user.email "kethelyngabrielly14@gmail.com"
+>> git config user.name "seuUsuário"
+>> git config user.email "seuemail@gmail.com"
 ```
 ---
 
@@ -17,7 +17,7 @@ Depois de criar um repositório no github, executar os seguintes comandos ->
 >> git add .
 >> git commit -m "commit"
 >> git branch -M main
->> git remote add origin https://github.com/kethelynsantos/GitCommands.git
+>> git remote add origin https://github.com/seuLinkDoRepositorio
 >> git push -u origin main
 ```
 ---
@@ -43,9 +43,9 @@ Após copiar o link do repositório que deseja clonar, fazer ->
 ### Criando uma Branch
 ```bash
 >> Configure seu usuário
->> git checkout -b kethelyn
+>> git checkout -b nomeBranch
 >> git checkout (mostra em qual branch você está)
->> git push origin kethelyn
+>> git push origin nomeBranch
 ```
 ---
 
@@ -55,4 +55,5 @@ Após copiar o link do repositório que deseja clonar, fazer ->
 ```bash
 >> "Gerenciador de Credenciais"
 >> "Credenciais do Windows"
+>> Também não se esqueça de desconectar o git do edge
 ```
